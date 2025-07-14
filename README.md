@@ -71,8 +71,8 @@ The project was developed using Solidity, OpenZeppelin libraries, and is designe
 ## Set-up
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/anikettyagi0x0/BidBeastsNFT_MarketPlace
+cd BidBeastsNFT_MarketPlace
 
 forge compile
 forge test
