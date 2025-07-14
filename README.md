@@ -43,7 +43,7 @@ The project was developed using Solidity, OpenZeppelin libraries, and is designe
 ---
 
 ## BidBeastsNFT Structure
-
+```
 ├── lib/                    
 ├── src/                   
 │   └── BidBeasts_NFT_ERC721.sol
@@ -57,6 +57,7 @@ The project was developed using Solidity, OpenZeppelin libraries, and is designe
 │
 ├── foundry.toml       
 └── README.md
+```
 
 ---
 
