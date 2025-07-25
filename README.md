@@ -1,5 +1,10 @@
 # BidBeasts NFT Marketplace
 
+<p align="center">
+<img width="300" height="300" alt="logo-removebg-preview" src="https://github.com/user-attachments/assets/02f9e14f-4deb-48a0-8029-e8200bd5d05f" />
+</p>
+
+
 ## About the Project
 
 This smart contract implements a basic auction-based NFT marketplace for the `BidBeasts` ERC721 token. It enables NFT owners to list their tokens for auction, accept bids from participants, and settle auctions with a platform fee mechanism.
